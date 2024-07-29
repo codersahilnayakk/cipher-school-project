@@ -17,7 +17,7 @@ You have a basic understanding of JavaScript, HTML, and CSS.
 Installation
 Clone the repository:
 
-git clone https://github.com/satendrasingh-1/Note.me.git
+git clone (https://github.com/codersahilnayakk/cipher-school-project/tree/master)
 Navigate to the project directory:
 
 #For REACT
